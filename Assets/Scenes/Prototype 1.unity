@@ -1295,6 +1295,11 @@ MonoBehaviour:
   centreOfMass: {fileID: 2057344213}
   speedometerText: {fileID: 2091981063}
   rpmText: {fileID: 932955760}
+  allWheels:
+  - {fileID: 899217530}
+  - {fileID: 999445950}
+  - {fileID: 961786720}
+  - {fileID: 1289543849}
 --- !u!54 &993888149
 Rigidbody:
   m_ObjectHideFlags: 0
